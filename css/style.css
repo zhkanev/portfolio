@@ -97,7 +97,7 @@ p {
 header.main-header {
     padding-top: 3.125rem;
     height: 31.25rem;
-    background-image: url(./images/showcase-bg.png);
+    background-image: url(../images/showcase-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
