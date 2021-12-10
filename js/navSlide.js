@@ -24,4 +24,4 @@ const navSlide = () => {
 	});
 }
 
-navSlide();
+export default navSlide();
